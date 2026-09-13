@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+.uv-cache/
+.uv-python/
+.bookdownload/
+.tmp-cli-test/
+.tmp-playwright-profile/
+dist/
+build/
+*.egg-info/
